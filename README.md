@@ -12,4 +12,4 @@ Features:
 
 Future versions will have more kit variations/features if requested.
 
-*Seed list must be used to teleport to these biomes. Seed list (ABSeeds.txt) is provided here and in the individual version pages.
+*Seed list must be used to teleport to these biomes. Seed list (ABSeeds.txt) is provided in the individual version pages.
